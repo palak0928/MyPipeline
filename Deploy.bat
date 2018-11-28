@@ -1,0 +1,1 @@
+echo "Deploting the project"
